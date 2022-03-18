@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://i.pinimg.com/236x/65/2c/2b/652c2becfd161e5dc98c1496e09197e9.jpg</item>
+        <item>https://i.pinimg.com/236x/a5/f1/a2/a5f1a2cbbf29182904410060d8085ecf.jpg</item>
+        <item>https://i.pinimg.com/236x/8c/55/19/8c5519303fd9c20cef8e93d000e6f362.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://i.pinimg.com/236x/82/97/de/8297dee2d3f3e92a18cca6191d35938d.jpg</item>
+        <item>https://i.pinimg.com/236x/9a/04/0a/9a040a80710f470a3991ceb8efc8de49.jpg</item>
+        <item>https://i.pinimg.com/236x/05/cb/a2/05cba225f40fd0674bed8789b1fa0f89.jpg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://i.pinimg.com/236x/da/00/25/da00254e60aef81b5cf39c00da89ea36.jpg</item>
+        <item>https://i.pinimg.com/236x/9c/03/79/9c0379a25b400957578e43ce403202f6.jpg</item>
+        <item>https://i.pinimg.com/236x/de/5b/10/de5b10e23d910be7d2e7f4483476ef11.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/flowers</item>
+        <item>@array/animals</item>
+        <item>@array/foods</item>
+    </array>
+</resources>
